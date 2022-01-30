@@ -1,3 +1,4 @@
-KB23-Kurrun-Behl Projects
+-- KB23-Kurrun-Behl Projects
 
-Here are you will find my official programming projects
+Hello, I'm Kurrun Behl
+Here you will find my official programming projects
